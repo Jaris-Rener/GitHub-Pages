@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://jaris-rener.github.io/GitHub-Pages/sitemap.xml
+Sitemap: https://jaris-rener.github.io/blog/sitemap.xml

@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Soyboy</title>
-    <link href="https://jaris-rener.github.io/GitHub-Pages/feed.xml" rel="self" />
-    <link href="https://jaris-rener.github.io/GitHub-Pages" />
+    <link href="https://jaris-rener.github.io/blog/feed.xml" rel="self" />
+    <link href="https://jaris-rener.github.io/blog" />
     <updated>2025-02-03T23:19:02+11:00</updated>
     <author>
         <name>Jaris Rener</name>
     </author>
-    <id>https://jaris-rener.github.io/GitHub-Pages</id>
+    <id>https://jaris-rener.github.io/blog</id>
 
     <entry>
         <title>Howdy!</title>
         <author>
             <name>Jaris Rener</name>
         </author>
-        <link href="https://jaris-rener.github.io/GitHub-Pages/hello.html"/>
-        <id>https://jaris-rener.github.io/GitHub-Pages/hello.html</id>
-        <media:content url="https://jaris-rener.github.io/GitHub-Pages/media/posts/1/PXL_20230123_220805417.jpg" medium="image" />
+        <link href="https://jaris-rener.github.io/blog/hello.html"/>
+        <id>https://jaris-rener.github.io/blog/hello.html</id>
+        <media:content url="https://jaris-rener.github.io/blog/media/posts/1/PXL_20230123_220805417.jpg" medium="image" />
             <category term="meta"/>
 
         <updated>2025-02-03T20:13:51+11:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jaris-rener.github.io/GitHub-Pages/media/posts/1/PXL_20230123_220805417.jpg" alt="" />
+                        <img src="https://jaris-rener.github.io/blog/media/posts/1/PXL_20230123_220805417.jpg" alt="" />
                     Hey there folks, nice to meet y'all! Inspired by my friend ari&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://jaris-rener.github.io/GitHub-Pages/media/posts/1/PXL_20230123_220805417.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://jaris-rener.github.io/blog/media/posts/1/PXL_20230123_220805417.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Hey there folks, nice to meet y'all!</p>
 <p>Inspired by my friend <a href="https://clumsywords.blog/yo-wadap/" target="_blank" rel="noopener noreferrer">ari</a> - I am giving this blogging thing a chance. The state of social media frankly pisses me the fuck off. Twitter is a Nazi hellscape, Bluesky is <em>ok</em> I guess and I'll probably stick around there too, but nobody can stop me here so I get to make it a cool place the way I want it.</p>
 <p>Who knows what I'll post about? It will likely just be mundane things about my life; hobbies, cool things I see or do, and probably some tech and game dev stuff when I find the time for it.</p>
